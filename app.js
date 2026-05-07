@@ -27,7 +27,7 @@ app.use(cookieParser());
 
 app.use(
    cors({
-        origin:  "https://ancshops.netlify.app",
+        origin:  "https://aurashops.netlify.app",
        credentials: true
     })
 );
